@@ -1,0 +1,42 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 500px;
+        background-color: cornflowerblue;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    background: lightblue;
+    border-radius: 15px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+}
+#button1{
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 50px;
+    border-color: lightblue;
+    border-radius: 15px;
+}
